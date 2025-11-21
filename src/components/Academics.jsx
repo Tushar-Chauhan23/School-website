@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import '../css/Academics.css'; 
 
@@ -7,7 +7,7 @@ const Academics = () => {
     <div className="academics">
       <Container>
         <header className="text-center py-5">
-          <h1>Academics at Springdale Public School</h1>
+          <h1>Academics at Bright Home Public School</h1>
         </header>
         
         <section className="curriculum-section my-5">

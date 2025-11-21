@@ -1,11 +1,11 @@
-import React from 'react';
+// import React from 'react';
 import '../css/LifeAtSpringdalePage.css';
 
 const LifeAtSpringdalePage = () => {
   return (
-    <div className="life-at-springdale">
+    <div className="life-at-brighthome">
       <header className="header">
-        <h1>Life at Springdale</h1>
+        <h1>Life at Bright Home</h1>
       </header>
       <section className="extracurricular-clubs">
         <div className="extracurricular-activities">

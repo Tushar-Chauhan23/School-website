@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../css/GalleryPage.css';
 import tour from "../assets/tour.mp4"
 import annual from "../assets/videoplayback.mp4"
@@ -58,7 +58,7 @@ const GalleryPage = () => {
                 Your browser does not support the video tag.
               </video>
               <div className="video-overlay">
-                <p>Virtual tour of Springdale Public School.</p>
+                <p>Virtual tour of Bright Home Public School.</p>
               </div>
             </div>
             <div className="video-item">

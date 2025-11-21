@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../css/AdmissionsPage.css';
 
 const AdmissionsPage = () => {

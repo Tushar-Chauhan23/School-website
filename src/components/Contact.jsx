@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../css/ContactPage.css';
 
 const ContactPage = () => {
@@ -11,13 +11,13 @@ const ContactPage = () => {
         <div className="contact-details">
           <h2>Get in Touch</h2>
           <p className="address">
-            <strong>Address:</strong> Springdale Public School, 123 Education Lane, Cityville, State, ZIP Code
+            <strong>Address:</strong> Bright Home Public School, 123 Education Lane, Cityville, State, ZIP Code
           </p>
           <p className="phone">
             <strong>Phone:</strong> +1 (123) 456-7890
           </p>
           <p className="email">
-            <strong>Email:</strong> <a href="mailto:info@springdale.edu">info@springdale.edu</a>
+            <strong>Email:</strong> <a href="mailto:info@brighthome.edu">info@brighthome.edu</a>
           </p>
         </div>
         <div className="contact-form">

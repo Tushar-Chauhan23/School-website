@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "../css/Heading.css"
@@ -9,7 +9,7 @@ function Heading()
         <nav className="navbar navbar-expand-lg navbar-light bg-light" style={{padding:"10px 100px"}}>
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
-              <img src={logo} alt="Springdale Public School" height="40" />
+              <img src={logo} alt="Bright Home Public School" height="40" />
             </Link>
             <button
               className="navbar-toggler"
@@ -69,5 +69,5 @@ function Heading()
           </div>
         </nav>
       );
-    };
+    }
 export default Heading

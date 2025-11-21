@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Carousel, Container, Row, Col, Card, Button } from 'react-bootstrap';
 import "../css/homepagestyle.css"
 import sports from  "../assets/sportsday.jpg"
@@ -9,7 +9,7 @@ const Home = () => {
     <div className='ho'>
       <header className="bg-primary text-white text-center py-5">
         <Container id='wel'>
-          <h2>Welcome to Springdale Public School</h2>
+          <h2>Welcome to Bright Home Public School</h2>
           <p>Where we nurture young minds for a brighter future.</p>
         </Container>
       </header>
@@ -112,7 +112,7 @@ const Home = () => {
               <Card.Body>
                 <Card.Title>Testimonials</Card.Title>
                 <Card.Text>
-                  "Springdale Public School has been a second home to me. The faculty and environment have
+                  "Bright Home Public School has been a second home to me. The faculty and environment have
                   been nurturing and inspiring." - John Smith, Alumni
                 </Card.Text>
               </Card.Body>
@@ -123,7 +123,7 @@ const Home = () => {
               <Card.Body>
                 <Card.Title>Testimonials</Card.Title>
                 <Card.Text>
-                  "The education I received at Springdale has been instrumental in shaping my career. The 
+                  "The education I received at Bright Home has been instrumental in shaping my career. The 
                   focus on holistic development is commendable." -  Alumni
                 </Card.Text>
               </Card.Body>
@@ -134,8 +134,8 @@ const Home = () => {
 
       <footer className="bg-light text-center py-4">
         <Container>
-          <p>Springdale Public School, 123 Education Lane, Cityville, State, ZIP Code</p>
-          <p>Phone: +1 (123) 456-7890 | Email: info@springdale.edu</p>
+          <p>Bright Home Public School, 123 Education Lane, Cityville, State, ZIP Code</p>
+          <p>Phone: +1 (123) 456-7890 | Email: info@Bright Home.edu</p>
         </Container>
       </footer>
     </div>

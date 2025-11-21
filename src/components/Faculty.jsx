@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../css/FacultyPage.css';
 import men1 from  "../assets/men1.jpg"
 import men2 from  "../assets/men2.jpg"
